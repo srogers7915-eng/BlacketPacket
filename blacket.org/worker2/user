@@ -1,0 +1,92 @@
+{
+  "error": false,
+  "user": {
+    "id": 6069204,
+    "username": "ItsNotBlacket",
+    "created": 1748864955,
+    "modified": 1769002102,
+    "avatar": "/content/blooks/Default.webp",
+    "banner": "/content/banners/Galaxy.webp",
+    "badges": [
+      "6 Month Veteran",
+      "Verified",
+      "Plus",
+      "Big Spender",
+      "Discord Supporter",
+      "Beta Tester"
+    ],
+    "blooks": {
+      "Xotic": 3,
+      "Pablo": 7,
+      "Death": 5,
+      "Cerulean": 4,
+      "iBlooket": 6,
+      "root": 2,
+      "Doxy": 3,
+      "susdog": 8,
+      "Ice Bat": 6,
+      "Ice Elemental": 5,
+      "Yeti": 4,
+      "Brown Blook": 12,
+      "Rainbow Blook": 2,
+      "Golden Among Us": 1,
+      "Big Shield": 5,
+      "Among Us": 6,
+      "Goomba": 4,
+      "Toast": 10,
+      "Cereal": 8,
+      "Yogurt": 6,
+      "Breakfast Combo": 4,
+      "Lil Bot": 7,
+      "Lovely Bot": 5,
+      "Happy Bot": 6,
+      "Angry Bot": 3,
+      "Watson": 2,
+      "Buddy Bot": 3
+    },
+    "tokens": 65230,
+    "perms": ["trade_unlimited", "friend_requests_unlimited"],
+    "clan": "MysticLegion",
+    "role": "Legendary",
+    "color": "#ff66ff",
+    "exp": 45230,
+    "inventory": [
+      "1H Booster",
+      "3H Booster",
+      "Blacket Plus",
+      "Seasonal Pack Key",
+      "Random Legendary Token"
+    ],
+    "mute": null,
+    "ban": null,
+    "misc": {
+      "opened": 5120,
+      "messages": 632,
+      "tradesCompleted": 187,
+      "dailyStreak": 85
+    },
+    "friends": ["FrostByte", "GlacialMage", "PixelFlame", "NovaBurst", "ShadowFury"],
+    "blocks": [],
+    "claimed": "1769002054",
+    "settings": {
+      "friends": "on",
+      "requests": "on",
+      "trades": "everyone",
+      "privacyMode": "off"
+    },
+    "otp": false,
+    "moneySpent": 120,
+    "inbox": [
+      {
+        "from": "System",
+        "message": "You received a Holiday Event Badge!",
+        "timestamp": 1768998102
+      },
+      {
+        "from": "System",
+        "message": "Your daily wheel rewarded 750 tokens!",
+        "timestamp": 1769002000
+      }
+    ]
+  }
+}
