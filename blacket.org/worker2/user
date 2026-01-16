@@ -45,7 +45,8 @@
       "Buddy Bot": 3
     },
     "tokens": 65230,
-    "clan": "MysticLegion",
+    "perms": [],
+    "clan": null,
     "role": "Legendary",
     "color": "#ff66ff",
     "exp": 45230,
@@ -64,7 +65,7 @@
       "tradesCompleted": 187,
       "dailyStreak": 85
     },
-    "friends": ["FrostByte", "GlacialMage", "PixelFlame", "NovaBurst", "ShadowFury"],
+    "friends": [],
     "blocks": [],
     "claimed": "1769002054",
     "settings": {
@@ -74,7 +75,6 @@
       "privacyMode": "off"
     },
     "otp": false,
-    'perms': []
     "moneySpent": 120,
     "inbox": [
       {
