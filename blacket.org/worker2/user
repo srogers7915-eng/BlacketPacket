@@ -74,6 +74,7 @@
       "privacyMode": "off"
     },
     "otp": false,
+    'perms': []
     "moneySpent": 120,
     "inbox": [
       {
